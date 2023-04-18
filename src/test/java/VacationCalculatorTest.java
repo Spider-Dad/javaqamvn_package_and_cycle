@@ -19,5 +19,5 @@ public class VacationCalculatorTest { // объявляем тестовый к�
         assertEquals(2, calculator.calculateVacationMonths(100_000, 60_000, 150_000));
 
     }
-    
+
 }
